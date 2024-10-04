@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Apple Inc.",
+    "symbol": "AAPL",
+    "currentPrice": 300.25,
+    "lastUpdated": "2024-10-03T10:30:00.000Z"
+  },
+  {
+    "name": "Microsoft Corporation",
+    "symbol": "MSFT",
+    "currentPrice": 400.75,
+    "lastUpdated": "2024-10-03T10:31:00.000Z"
+  },
+  {
+    "name": "Amazon.com, Inc.",
+    "symbol": "AMZN",
+    "currentPrice": 4250.0,
+    "lastUpdated": "2024-10-03T10:32:00.000Z"
+  },
+  {
+    "name": "Alphabet Inc.",
+    "symbol": "GOOGL",
+    "currentPrice": 2750.5,
+    "lastUpdated": "2024-10-03T10:33:00.000Z"
+  },
+  {
+    "name": "Tesla, Inc.",
+    "symbol": "TSLA",
+    "currentPrice": 725.75,
+    "lastUpdated": "2024-10-03T10:34:00.000Z"
+  },
+  {
+    "name": "Meta Platforms, Inc.",
+    "symbol": "META",
+    "currentPrice": 335.25,
+    "lastUpdated": "2024-10-03T10:35:00.000Z"
+  },
+  {
+    "name": "NVIDIA Corporation",
+    "symbol": "NVDA",
+    "currentPrice": 550.0,
+    "lastUpdated": "2024-10-03T10:36:00.000Z"
+  },
+  {
+    "name": "JPMorgan Chase & Co.",
+    "symbol": "JPM",
+    "currentPrice": 165.5,
+    "lastUpdated": "2024-10-03T10:37:00.000Z"
+  },
+  {
+    "name": "Johnson & Johnson",
+    "symbol": "JNJ",
+    "currentPrice": 170.25,
+    "lastUpdated": "2024-10-03T10:38:00.000Z"
+  },
+  {
+    "name": "Walmart Inc.",
+    "symbol": "WMT",
+    "currentPrice": 140.75,
+    "lastUpdated": "2024-10-03T10:39:00.000Z"
+  }
+]
